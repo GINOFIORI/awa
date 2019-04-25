@@ -4,7 +4,7 @@
 include ("includes/iniciar_sesion.php");
 include ("includes/menu/valores_menu_principal.php");
 include ("includes/descrip_roles.php");
-
+/* este es un cambio prueba*/
 $recorre = 0;
 
 ?>
