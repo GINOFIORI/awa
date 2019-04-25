@@ -16,7 +16,7 @@
 	$tipoComprobante   = '6';
 	$claseComprobante  = 'x';
 	$numeroComprobante = '000200037789';
-*/
+/*
 
 	$modulo = 3;
 	$comandoConsultaCbtes = "CONSULTACBTEVTAS(".$tipoComprobante.",".$claseComprobante.",".$numeroComprobante.")";
